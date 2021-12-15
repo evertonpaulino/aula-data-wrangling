@@ -4,3 +4,8 @@
 library(tidyverse)
 
 #commit of clone
+
+#Functions
+join()
+select()
+filter()
