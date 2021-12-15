@@ -9,3 +9,6 @@ library(tidyverse)
 join()
 select()
 filter()
+
+summurise()
+dimension()
